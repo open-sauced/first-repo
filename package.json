@@ -1,0 +1,41 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chakra-ui/core": "0.2.8",
+    "@emotion/core": "10.0.17",
+    "@emotion/styled": "10.0.17",
+    "@primer/components": "13.5.0",
+    "@primer/octicons": "9.1.1",
+    "@primer/octicons-react": "9.1.1",
+    "apollo-boost": "0.1.27",
+    "emotion-theming": "10.0.19",
+    "graphql": "14.1.1",
+    "graphql-tag": "2.10.1",
+    "onegraph-apollo-client": "1.2.21",
+    "onegraph-auth": "2.0.5",
+    "react": "16.8.6",
+    "react-apollo": "2.4.1",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1",
+    "styled-components": "4.3.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
